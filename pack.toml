@@ -1,0 +1,13 @@
+name = "Optimization Base"
+author = "Arty_x_g"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ea3812044ae95fe15dda22708433df3463e6ca1743bcc987191b020fec35be3d"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.251"

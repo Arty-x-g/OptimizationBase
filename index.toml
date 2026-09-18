@@ -1,0 +1,17 @@
+hash-format = "sha256"
+
+[[files]]
+file = "config/DistantHorizons.toml"
+hash = "6c74b27accb21545fd08b07d2b8ca50d893d82a2cb6087e3978afac006811e70"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "e9ed0d2d78408f24de911d7c5bbfa9b891fe4dca25f02215df72b1bbdd995472"
+
+[[files]]
+file = "config/modernfix-common.toml"
+hash = "72ca2bcea2a9946a3a54842f14eff6f7b47d8fc96ef497c1b56406643b153fd7"
+
+[[files]]
+file = "config/modernfix-mixins.properties"
+hash = "d96463220348d92fd679989ecfaa4b9e3d0c12ce530f6d33cbd5840779649ca5"
