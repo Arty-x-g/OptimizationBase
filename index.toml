@@ -73,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "4fbe037c1ec3570be84f68e075c3e8293b15f64dda22bca4735924705fb38236"
+hash = "a7f3c4471a93ee8debbbdef4519c6e399110eb77a84ee2f664022a7ebe64a9cb"
 metafile = true
 
 [[files]]
@@ -89,6 +89,11 @@ metafile = true
 [[files]]
 file = "mods/flerovium.pw.toml"
 hash = "4ae505d63fe067cdf0bbc364283eb0e5d90ebdb409cf1633326d10cfdeea28a8"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "9443e2e10833fef220311447b5e21d161f2e4d76bb07c77d28e2dc2fa8e42cd6"
 metafile = true
 
 [[files]]
