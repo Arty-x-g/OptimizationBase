@@ -52,6 +52,11 @@ hash = "84ad276edbae5b2419d5dc8a71a204062685904b881f724cbc2097bc9531c9f8"
 metafile = true
 
 [[files]]
+file = "mods/chunksmith.pw.toml"
+hash = "96c9689340a500aea1f846ea4fec29b2d438342d75769453a98cd572ea02bf32"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "75181b55e0407d1fca1e2f346c6501f919f5109545990ddfb66db9cd1b771f8a"
 metafile = true
@@ -68,7 +73,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "638e9f54c662eb867d429347ed5e6b17bd2189d817e3e99c76a3dd89056ce438"
+hash = "57f5442d7a1d3d9b7acf8f5ae72c0681ed14b4cfc3b81a961086631f0ea378ab"
 metafile = true
 
 [[files]]

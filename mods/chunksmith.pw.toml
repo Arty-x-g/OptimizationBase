@@ -1,0 +1,13 @@
+name = "Chunksmith"
+filename = "chunksmith-4.3.3+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4BeAEBIb/versions/hk1RlsgZ/chunksmith-4.3.3%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "27e3298a7b5de68180167dad139bf2a70d7af992f057083be0b0db678d8fbee2a846de07f47f15784fd818ae94df63ebb4f8e567cf0aa04516b1f7cbb0c270f3"
+
+[update]
+[update.modrinth]
+mod-id = "4BeAEBIb"
+version = "hk1RlsgZ"
